@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Leonardo Castro 👋
 
-<!--
-**leo-lgc/leo-lgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Designer + Front-end Developer**
 
-Here are some ideas to get you started:
+Crio interfaces e experiências digitais com foco em clareza, usabilidade e consistência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🎯 Product Design / UX/UI
+- 💻 Front-end
+- 🧩 Design Systems
+- 🚀 Produtos digitais
+
+## Ferramentas e tecnologias
+
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-000?style=for-the-badge&logo=miro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?style=for-the-badge&logo=adobexd&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
+
+## Onde me encontrar
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leonardocastro-design.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleo-dev/)

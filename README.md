@@ -1,6 +1,6 @@
 # Olá, eu sou Leonardo Castro 👋
 
-**Product Designer + Front-end Developer**
+**Product Developer on TESS**
 
 Crio interfaces e experiências digitais com foco em clareza, usabilidade e consistência.
 

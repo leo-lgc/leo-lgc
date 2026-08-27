@@ -4,13 +4,6 @@
 
 Crio interfaces e experiências digitais com foco em clareza, usabilidade e consistência.
 
-## Sobre mim
-
-- 🎯 Product Design / UX/UI
-- 💻 Front-end
-- 🧩 Design Systems
-- 🚀 Produtos digitais
-
 ## Ferramentas e tecnologias
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
@@ -21,8 +14,3 @@ Crio interfaces e experiências digitais com foco em clareza, usabilidade e cons
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
-
-## Onde me encontrar
-
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://leonardocastro-design.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleo-dev/)

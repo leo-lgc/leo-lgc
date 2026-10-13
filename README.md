@@ -2,8 +2,6 @@
 
 **Product Developer on TESS**
 
-Crio interfaces e experiências digitais com foco em clareza, usabilidade e consistência.
-
 ## Ferramentas e tecnologias
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)

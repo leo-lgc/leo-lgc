@@ -8,17 +8,17 @@
 
 <br/>
 
-<a href="https://portfoliox-uiux.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Brasil-000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://portfoliox-uiux.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Brazil-000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/IMD%20·%20UFRN-000?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 👋 About me
 
-Sou **developer na [TESS AI](https://tess.im)**, uma plataforma de agentes de IA, chat multimodelo e geração de mídia. Trabalho no backend dos agentes, nas integrações com provedores de IA generativa e na automação que mantém tudo estável em produção. Programo todo dia com um fluxo AI-native: agentes, skills e Claude Code fazem parte do meu loop de desenvolvimento.
+I'm a **developer at [TESS AI](https://tess.im)**, a platform for AI agents, multi-model chat and generative media. I work on the agents' backend, on integrations with generative AI providers, and on the automation that keeps it all stable in production. I code every day with an AI-native workflow: agents, skills and Claude Code are part of my development loop.
 
 ```ts
 const leo = {
@@ -30,20 +30,20 @@ const leo = {
 };
 ```
 
-## 🚀 No que eu trabalho
+## 🚀 What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Agentes de IA em produção
-Desenvolvo no **serviço de multi-agentes** da TESS: as tools que os agentes chamam, integrações com provedores de LLM e de mídia generativa, e a evolução da arquitetura para código nativo em TypeScript.
+### 🤖 AI agents in production
+I build on TESS's **multi-agent service**: the tools agents call, integrations with LLM and generative media providers, and the move of the architecture to native TypeScript code.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Qualidade & confiabilidade
-**Automação E2E** que usa a plataforma como um usuário real e roda em CI, para pegar regressão antes que ela chegue em produção.
+### 🧪 Quality & reliability
+**E2E automation** that uses the platform like a real user and runs in CI, catching regressions before they reach production.
 
 </td>
 </tr>
@@ -51,17 +51,17 @@ Desenvolvo no **serviço de multi-agentes** da TESS: as tools que os agentes cha
 <td width="50%" valign="top">
 
 ### ⚡ AI-native dev workflow
-Construo **skills e automações** para o time de engenharia: agentes que revisam, corrigem e reportam sozinhos. É assim que a gente entrega mais rápido.
+I build **skills and automations** for the engineering team: agents that review, fix and report on their own. It's how we ship faster.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Em números
-Desde **julho/2026**:
+### 📊 By the numbers
+Since **July 2026**:
 
 **278** pull requests<br/>
-**128** merged em produção<br/>
-**3** serviços no dia a dia
+**128** merged to production<br/>
+**3** services I work on daily
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ Desde **julho/2026**:
 
 ## 🛠️ Stack
 
-**Código**
+**Code**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -81,7 +81,7 @@ Desde **julho/2026**:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**IA, testes & infra**
+**AI, testing & infra**
 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -98,14 +98,14 @@ Desde **julho/2026**:
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
-## 📌 Projetos em destaque
+## 📌 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [🛰️ TESS Command Center](https://github.com/leo-lgc/tess-command-center)
-Interface para acompanhar **vários agentes de IA rodando em paralelo**, com intro imersiva em 3D e micro-interações.
+A dashboard for monitoring **multiple AI agents running in parallel**, with an immersive 3D intro and micro-interactions.
 
 `React` `Vite` `Three.js` `Framer Motion`
 
@@ -113,9 +113,9 @@ Interface para acompanhar **vários agentes de IA rodando em paralelo**, com int
 <td width="50%" valign="top">
 
 ### [🎨 leonardocastro.design](https://github.com/leo-lgc/leonardocastro.design)
-Meu portfólio de UI/UX, com cases de design de produto.
+My UI/UX portfolio, with product design case studies.
 
-`HTML` `CSS` `JavaScript` · [🔗 ver online](https://portfoliox-uiux.vercel.app)
+`HTML` `CSS` `JavaScript` · [🔗 live](https://portfoliox-uiux.vercel.app)
 
 </td>
 </tr>
@@ -123,15 +123,15 @@ Meu portfólio de UI/UX, com cases de design de produto.
 <td width="50%" valign="top">
 
 ### [⚡ Nero](https://github.com/leo-lgc/nero)
-Projeto web publicado na Vercel.
+A web project deployed on Vercel.
 
-`JavaScript` `HTML` `CSS` · [🔗 ver online](https://nero-zeta-nine.vercel.app)
+`JavaScript` `HTML` `CSS` · [🔗 live](https://nero-zeta-nine.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
 ### [🏗️ Quali Frontend](https://github.com/leo-lgc/quali-frontend)
-Frontend de um sistema de **gestão de obras**.
+Frontend for a **construction management** system.
 
 `React` `TypeScript` `Vite`
 
@@ -139,7 +139,7 @@ Frontend de um sistema de **gestão de obras**.
 </tr>
 </table>
 
-<sub>Outros: [chronos-pomodoro](https://github.com/leo-lgc/chronos-pomodoro) · [task-manager](https://github.com/leo-lgc/task-manager) · [pokeFocus](https://github.com/leo-lgc/pokeFocus)</sub>
+<sub>More: [chronos-pomodoro](https://github.com/leo-lgc/chronos-pomodoro) · [task-manager](https://github.com/leo-lgc/task-manager) · [pokeFocus](https://github.com/leo-lgc/pokeFocus)</sub>
 
 ## 📈 GitHub
 

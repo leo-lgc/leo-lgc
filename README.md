@@ -152,7 +152,7 @@ Frontend de um sistema de **gestão de obras**.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=leo-lgc&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lgc&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leo-lgc&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=leo-lgc&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 

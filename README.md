@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Leonardo%20Castro&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Product%20Developer%20%40%20TESS%20AI&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Leonardo%20Castro&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%40%20TESS%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/leo-lgc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Construindo+tools+nativas+para+agentes+de+IA;Automatizando+testes+E2E+de+uma+plataforma+de+IA;Design+%2B+c%C3%B3digo%2C+do+Figma+ao+deploy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Software+Developer+%40+TESS+AI;Building+AI+agents+in+production;TypeScript+%C2%B7+Node.js+%C2%B7+LLMs;Shipping+with+AI-native+workflows" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,44 +18,40 @@
 
 ## 👋 Sobre mim
 
-Sou **Product Developer na [TESS AI](https://tess.im)**, uma plataforma de IA com agentes, chat multimodelo e geração de imagem, vídeo e áudio. Comecei pelo design de produto (Figma, UX) e hoje trabalho no código que faz os agentes funcionarem e na automação que garante que eles continuem funcionando.
+Sou **developer na [TESS AI](https://tess.im)**, uma plataforma de agentes de IA, chat multimodelo e geração de mídia. Trabalho no backend dos agentes, nas integrações com provedores de IA generativa e na automação que mantém tudo estável em produção. Programo todo dia com um fluxo AI-native: agentes, skills e Claude Code fazem parte do meu loop de desenvolvimento.
 
 ```ts
 const leo = {
-  role: "Product Developer @ TESS AI",
-  focus: ["AI agent tools", "E2E test automation", "Developer tooling"],
+  role: "Software Developer @ TESS AI",
+  building: ["AI agents", "LLM integrations", "test automation", "dev tooling"],
   stack: ["TypeScript", "Node.js", "React", "PHP / Laravel"],
-  background: "UI/UX Design → Engenharia",
-  currently: "migrando RPAs para tools nativas e blindando a plataforma com test journeys",
+  workflow: "AI-native → agents + skills + Claude Code",
+  shipping: "278 PRs since Jul/2026",
 };
 ```
 
-## 🚀 O que estou construindo na TESS
+## 🚀 No que eu trabalho
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Tools nativas para agentes
-No serviço de multi-agentes, migro workflows RPA para **tools nativas em TypeScript**. São integrações diretas com os modelos de imagem, vídeo e áudio que os agentes usam:
-
-`Kling` · `Runway` · `Veo` · `Flux` · `Seedance` · `Wan` · `Qwen Image` · `MiniMax` · `ElevenLabs` · `Lyria` · `GPT Image` · `Nano Banana`
+### 🤖 Agentes de IA em produção
+Desenvolvo no **serviço de multi-agentes** da TESS: as tools que os agentes chamam, integrações com provedores de LLM e de mídia generativa, e a evolução da arquitetura para código nativo em TypeScript.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Test journeys E2E
-Na plataforma principal, crio e mantenho **journeys de smoke e core-test** que navegam pelo produto como um usuário real:
-
-`Chat & arquivos` · `MCP servers` · `Memória` · `Conectores & OAuth` · `Governança de workspace` · `Agent Mode` · `AI Studio`
+### 🧪 Qualidade & confiabilidade
+**Automação E2E** que usa a plataforma como um usuário real e roda em CI, para pegar regressão antes que ela chegue em produção.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Skills para o time
-Contribuo com o **tess-team-kit**, um conjunto de skills de IA que automatizam o dia a dia de engenharia, como corrigir journeys quebradas e reportar execuções.
+### ⚡ AI-native dev workflow
+Construo **skills e automações** para o time de engenharia: agentes que revisam, corrigem e reportam sozinhos. É assim que a gente entrega mais rápido.
 
 </td>
 <td width="50%" valign="top">
@@ -63,9 +59,9 @@ Contribuo com o **tess-team-kit**, um conjunto de skills de IA que automatizam o
 ### 📊 Em números
 Desde **julho/2026**:
 
-**278** pull requests abertos<br/>
+**278** pull requests<br/>
 **128** merged em produção<br/>
-**3** repositórios principais
+**3** serviços no dia a dia
 
 </td>
 </tr>
